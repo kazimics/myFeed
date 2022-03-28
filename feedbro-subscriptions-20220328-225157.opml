@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+      <outline text="如有乐享" title="如有乐享" type="rss" 
+            xmlUrl="https://51.ruyo.net/feed/" htmlUrl="https://51.ruyo.net"/>
+      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" 
+            xmlUrl="https://www.ruanyifeng.com/blog/atom.xml" htmlUrl="http://www.ruanyifeng.com/blog/"/>
+      <outline text="Haorooms博客-前端博客-前端技术，记录web前端开发的技术博客" title="Haorooms博客-前端博客-前端技术，记录web前端开发的技术博客" type="rss" 
+            xmlUrl="https://www.haorooms.com/feed" htmlUrl="http://www.haorooms.com"/>
+      <outline text="Ahonn&#39;s Blog" title="Ahonn&#39;s Blog" type="rss" 
+            xmlUrl="https://www.ahonn.me/rss.xml"/>
+      <outline text="前端外刊评论 - 知乎专栏" title="前端外刊评论 - 知乎专栏" type="rss" 
+            xmlUrl="https://rss.lilydjwg.me/zhihuzhuanlan/FrontendMagazine" htmlUrl="https://zhuanlan.zhihu.com/FrontendMagazine"/>
+      <outline text="便宜VPS网" title="便宜VPS网" type="rss" 
+            xmlUrl="https://www.pianyivps.com/feed" htmlUrl="https://www.pianyivps.com"/>
+      <outline text="吕立青的博客" title="吕立青的博客" type="rss" 
+            xmlUrl="https://blog.jimmylv.info/pages/feed.xml" htmlUrl="https://blog.jimmylv.info"/>
+      <outline text="小众软件" title="小众软件" type="rss" 
+            xmlUrl="https://www.appinn.com/feed" htmlUrl="https://www.appinn.com"/>
+      <outline text="少数派" title="少数派" type="rss" 
+            xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com"/>
+      <outline text="书墨资源 - Telegram Channel" title="书墨资源 - Telegram Channel" type="rss" 
+            xmlUrl="https://rsshub.app/telegram/channel/shumozy" htmlUrl="https://t.me/s/shumozy"/>
+      <outline text="ATA 网络资源分享 🎄 - Telegram Channel" title="ATA 网络资源分享 🎄 - Telegram Channel" type="rss" 
+            xmlUrl="https://rsshub.app/telegram/channel/atashare" htmlUrl="https://t.me/s/atashare"/>
+      <outline text="若水的箱子 - Telegram Channel" title="若水的箱子 - Telegram Channel" type="rss" 
+            xmlUrl="https://rsshub.app/telegram/channel/Ru05hui" htmlUrl="https://t.me/s/Ru05hui"/>
+      <outline text="超能网" title="超能网" type="rss" 
+            xmlUrl="https://www.expreview.com/rss.php" htmlUrl="http://www.expreview.com"/>
+      <outline text="黑洞资源笔记 - Telegram Channel" title="黑洞资源笔记 - Telegram Channel" type="rss" 
+            xmlUrl="https://rsshub.app/telegram/channel/tieliu" htmlUrl="https://t.me/s/tieliu"/>
+      <outline text="Newlearnerの自留地 - Telegram Channel" title="Newlearnerの自留地 - Telegram Channel" type="rss" 
+            xmlUrl="https://rsshub.app/telegram/channel/NewlearnerChannel" htmlUrl="https://t.me/s/NewlearnerChannel"/>
+      <outline text="Find Blog👁发现博客 - Telegram Channel" title="Find Blog👁发现博客 - Telegram Channel" type="rss" 
+            xmlUrl="https://rsshub.app/telegram/channel/FindBlog" htmlUrl="https://t.me/s/FindBlog"/>
+      <outline text="APPDO 数字生活指南 - Telegram Channel" title="APPDO 数字生活指南 - Telegram Channel" type="rss" 
+            xmlUrl="https://rsshub.app/telegram/channel/AppDoDo" htmlUrl="https://t.me/s/AppDoDo"/>
+      <outline text="李雪含 » Feed" title="李雪含 » Feed" type="rss" 
+            xmlUrl="https://dajiayouxuan.com/feed" htmlUrl="https://dajiayouxuan.com"/>
+      <outline text="Decohack" title="Decohack" type="rss" 
+            xmlUrl="https://www.decohack.com/feed" htmlUrl="https://www.decohack.com"/>
+      <outline text="Anthony Fu" title="Anthony Fu" type="rss" 
+            xmlUrl="https://antfu.me/feed.xml" htmlUrl="https://antfu.me/"/>
+      <outline text="      动物的光合作用    " title="      动物的光合作用    " type="rss" 
+            xmlUrl="https://mebtte.com/rss.xml" htmlUrl="https://mebtte.com"/>
+      <outline text="Fat Garage" title="Fat Garage" type="rss" 
+            xmlUrl="https://fat-garage.com//feed" htmlUrl="https://fat-garage.com/"/>
+      <outline text="BB姬 | wechat-feeds" title="BB姬 | wechat-feeds" type="rss" 
+            xmlUrl="https://github.com/hellodword/wechat-feeds/raw/feeds/MzU3Nzc1MzMzOA==.xml" htmlUrl="http://MzU3Nzc1MzMzOA.favicon.privacyhide.com/favicon.ico"/>
+      <outline text="BB姬的知乎文章" title="BB姬的知乎文章" type="rss" 
+            xmlUrl="https://rsshub.app/zhihu/posts/people/bbji-43" htmlUrl="https://www.zhihu.com/people/bbji-43/posts"/>
+      <outline text="人物的知乎文章" title="人物的知乎文章" type="rss" 
+            xmlUrl="https://rsshub.app/zhihu/posts/org/ren-wu-11-54" htmlUrl="https://www.zhihu.com/org/ren-wu-11-54/posts"/>
+      <outline text="资讯 | 机核 GCORES" title="资讯 | 机核 GCORES" type="rss" 
+            xmlUrl="https://rsshub.app/gcores/category/news " htmlUrl="https://www.gcores.com/news"/>
+      <outline text="文章 | 机核 GCORES" title="文章 | 机核 GCORES" type="rss" 
+            xmlUrl="https://rsshub.app/gcores/category/articles" htmlUrl="https://www.gcores.com/articles"/>
+      <outline text="触乐 - 每日聚焦" title="触乐 - 每日聚焦" type="rss" 
+            xmlUrl="https://rsshub.app/chuapp/index/daily " htmlUrl="https://www.chuapp.com/category/daily"/>
+      <outline text="触乐 - 最好玩" title="触乐 - 最好玩" type="rss" 
+            xmlUrl="https://rsshub.app/chuapp/index/pcz" htmlUrl="https://www.chuapp.com/category/pcz"/>
+      <outline text="游研社-全部文章" title="游研社-全部文章" type="rss" 
+            xmlUrl="https://rsshub.app/yystv/docs" htmlUrl="https://www.yystv.cn/docs"/>
+</body>
+</opml>
