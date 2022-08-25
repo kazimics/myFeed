@@ -15,7 +15,7 @@
       <outline text="前端外刊评论 - 知乎专栏" title="前端外刊评论 - 知乎专栏" type="rss" 
             xmlUrl="https://rss.lilydjwg.me/zhihuzhuanlan/FrontendMagazine" htmlUrl="https://zhuanlan.zhihu.com/FrontendMagazine"/>
       <outline text="便宜VPS网" title="便宜VPS网" type="rss" 
-            xmlUrl="https://www.pianyivps.com/feed" htmlUrl="https://www.pianyivps.com"/>
+            xmlUrl="https://www.pianyivps.com/feed" htmlUrl="https://www.pianyivps.com/"/>
       <outline text="吕立青的博客" title="吕立青的博客" type="rss" 
             xmlUrl="https://blog.jimmylv.info/pages/feed.xml" htmlUrl="https://blog.jimmylv.info"/>
       <outline text="小众软件" title="小众软件" type="rss" 
@@ -48,8 +48,6 @@
             xmlUrl="https://mebtte.com/rss.xml" htmlUrl="https://mebtte.com"/>
       <outline text="Fat Garage" title="Fat Garage" type="rss" 
             xmlUrl="https://fat-garage.com//feed" htmlUrl="https://fat-garage.com/"/>
-      <outline text="BB姬 | wechat-feeds" title="BB姬 | wechat-feeds" type="rss" 
-            xmlUrl="https://github.com/hellodword/wechat-feeds/raw/feeds/MzU3Nzc1MzMzOA==.xml" htmlUrl="http://MzU3Nzc1MzMzOA.favicon.privacyhide.com/favicon.ico"/>
       <outline text="BB姬的知乎文章" title="BB姬的知乎文章" type="rss" 
             xmlUrl="https://rsshub.app/zhihu/posts/people/bbji-43" htmlUrl="https://www.zhihu.com/people/bbji-43/posts"/>
       <outline text="人物的知乎文章" title="人物的知乎文章" type="rss" 
@@ -64,5 +62,33 @@
             xmlUrl="https://rsshub.app/chuapp/index/pcz" htmlUrl="https://www.chuapp.com/category/pcz"/>
       <outline text="游研社-全部文章" title="游研社-全部文章" type="rss" 
             xmlUrl="https://rsshub.app/yystv/docs" htmlUrl="https://www.yystv.cn/docs"/>
+      <outline text="好工具周刊" title="好工具周刊" type="rss" 
+            xmlUrl="https://rsshub.app/zhubai/bestxtools" htmlUrl="https://bestxtools.zhubai.love/"/>
+      <outline text="GeekPlux Lab" title="GeekPlux Lab" type="rss" 
+            xmlUrl="https://rsshub.app/zhubai/geekplux" htmlUrl="https://geekplux.zhubai.love/"/>
+      <outline text="李笑来的微博" title="李笑来的微博" type="rss" 
+            xmlUrl="https://rsshub.app/weibo/user/1576218000" htmlUrl="https://weibo.com/1576218000/"/>
+      <outline text="产品鸭" title="产品鸭" type="rss" 
+            xmlUrl="https://rsshub.app/zhubai/produck" htmlUrl="https://produck.zhubai.love/"/>
+      <outline text="展哥每周笔记" title="展哥每周笔记" type="rss" 
+            xmlUrl="https://rsshub.app/zhubai/think" htmlUrl="https://think.zhubai.love/"/>
+      <outline text="DPS - Daily Productivity Sharing" title="DPS - Daily Productivity Sharing" type="rss" 
+            xmlUrl="https://letters.acacess.com/rss/" htmlUrl="https://letters.acacess.com/"/>
+      <outline text="新闻实验室" title="RSS" type="rss" 
+            xmlUrl="https://www.getrevue.co/profile/newslab?format=rss" htmlUrl="https://www.getrevue.co/profile/newslab"/>
+      <outline text=" 随意搜寻 " title=" 随意搜寻 " type="rss" 
+            xmlUrl="https://suiyisouxun.com/feed.xml" htmlUrl="http://suiyisouxun.com/"/>
+      <outline text="Design Scenes Weekly" title="Design Scenes Weekly" type="rss" 
+            xmlUrl="https://rsshub.app/zhubai/designscenes" htmlUrl="https://designscenes.zhubai.love/"/>
+      <outline text="富于理性" title="富于理性" type="rss" 
+            xmlUrl="https://rsshub.app/zhubai/havefun" htmlUrl="https://havefun.zhubai.love/"/>
+      <outline text="Teahour" title="Teahour" type="rss" 
+            xmlUrl="https://feeds.fireside.fm/teahour/rss" htmlUrl="http://teahour.fm"/>
+      <outline text="内核恐慌" title="内核恐慌" type="rss" 
+            xmlUrl="https://pan.icu/feed" htmlUrl="https://pan.icu"/>
+      <outline text="ByteTalk" title="ByteTalk" type="rss" 
+            xmlUrl="https://bytetalk.fm/index.xml" htmlUrl="https://bytetalk.fm/"/>
+      <outline text="代码家 » Feed" title="代码家 » Feed" type="rss" 
+            xmlUrl="https://daimajia.com/feed" htmlUrl="https://daimajia.com"/>
 </body>
 </opml>
