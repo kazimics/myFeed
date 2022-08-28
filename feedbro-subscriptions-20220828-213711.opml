@@ -90,5 +90,13 @@
             xmlUrl="https://bytetalk.fm/index.xml" htmlUrl="https://bytetalk.fm/"/>
       <outline text="代码家 » Feed" title="代码家 » Feed" type="rss" 
             xmlUrl="https://daimajia.com/feed" htmlUrl="https://daimajia.com"/>
+      <outline text="BIGDONGDONG" title="BIGDONGDONG" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpPswAyGzdRwWmiW5oTNnvA" htmlUrl="https://www.youtube.com/channel/UCpPswAyGzdRwWmiW5oTNnvA"/>
+      <outline text="jack stone" title="jack stone" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDD8WJ7Il3zWBgEYBUtc9xQ" htmlUrl="https://www.youtube.com/channel/UCDD8WJ7Il3zWBgEYBUtc9xQ"/>
+      <outline text="悟空的日常" title="悟空的日常" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCii04BCvYIdQvshrdNDAcww" htmlUrl="https://www.youtube.com/channel/UCii04BCvYIdQvshrdNDAcww"/>
+      <outline text="Gavin Zhou" title="Gavin Zhou" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeh2JETU8UQDmZxuW4U6FJw" htmlUrl="https://www.youtube.com/channel/UCeh2JETU8UQDmZxuW4U6FJw"/>
 </body>
 </opml>
